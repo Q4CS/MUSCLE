@@ -19,3 +19,4 @@ This repository provides the code for  ''MUSCLE: A New Perspective to Multi-scal
 * APTOS 2019: https://www.kaggle.com/competitions/aptos2019-blindness-detection
 * Kvasir2: https://datasets.simula.no/kvasir
 * Chaoyang: https://bupt-ai-cz.github.io/HSA-NRL
+* CheXpert: https://stanfordmlgroup.github.io/competitions/chexpert
